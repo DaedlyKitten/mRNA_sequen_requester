@@ -134,7 +134,7 @@ def infoFloat(m,t=333):
     w.snack.text(text=m,duration=t)
 
 
-class KonsRNASeqRequester(MDApp):
+class RNASeqRequester(MDApp):
     title='Kons mRNA Seq Requester'
     accList=[ ]
     accList1=[ ]
@@ -342,7 +342,7 @@ class KonsRNASeqRequester(MDApp):
         self.s.progress.value=0
 
     def showCredits(self):
-        infoPop('Kons Seq Requester.\nWritten in Python3.7, Kivy2.0rc4\nDeployed with pyinstaller.','@konporer 2020.3.')
+        infoPop('Seq Requester.\nWritten in Python3.7, Kivy2.0rc4\nDeployed with pyinstaller.','https://github.com/DaedlyKitten 2020.3.')
 
 
 
@@ -350,5 +350,5 @@ class KonsRNASeqRequester(MDApp):
 
 
 # if __name__ == '__main__':
-w=KonsRNASeqRequester()
+w=RNASeqRequester()
 w.run()
