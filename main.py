@@ -79,7 +79,7 @@ NavigationLayout:
 
         # MDLabel:
         MDLabel:
-            text:'Kon\\'s \\nmRNA Sequence \\nRequester' #Input url or gene id\\n        to start..' 
+            text:'K\\'s \\nmRNA Sequence \\nRequester' #Input url or gene id\\n        to start..' 
             halign:"left"
             font_style:'H5'
             theme_text_color: "Custom"
