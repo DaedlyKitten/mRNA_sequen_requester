@@ -3,6 +3,7 @@ This little app retrieves Accession ID and mRNA sequence of a gene from ncbi.nlm
 
 It can also align the sequences to find common parts, convenient for designing primers (to detect a gene of multiple variants).
 
+![screenshot2](S_193.jpeg)
 
 ![screenshot1](S_165.jpeg)
-![screenshot2](S_193.jpeg)
+
